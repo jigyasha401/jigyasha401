@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jigyasha401
+- 👋 Hi, I’m jigyasha
 - 👀 I’m interested in Automation and Manual Testing.
 - 🌱 I’m currently learning java Automation and Manual Testing.
 - 💞️ I’m looking to collaborate on in Automation Project using java.
